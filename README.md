@@ -1,4 +1,4 @@
-# [Resources List for Junior Developers](bitly.com/resourceslist)
+# Web Developer Tools and Resources for Beginners
 
 ## Tools
 * Where to Learn How to Code
@@ -26,7 +26,6 @@
 ## Misc
 * Projects
 * Design
-* Tools (Fonts, Photo Sites, Color Tools, Lorem Ipsum)
 * Frameworks/Boilerplates
 * Mobile App Development (iOS, Android)
 * Other Programming Languages
