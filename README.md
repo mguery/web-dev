@@ -1,11 +1,11 @@
-# Web Developer Tools and Resources for Beginners
+# [Web Developer Tools and Resources for Beginners](https://mguery.github.io/web-dev/)
 
 ## Tools
 * Where to Learn How to Code
-* HTML / CSS
-* Javascript
-* Editors
-* Helpful Sites
+* HTML and CSS
+* JavaScript
+* Code Editors
+* Helpful Sites/Books
 * Stay Productive
 * Tips and Tutorials
 * Accessibility
@@ -25,7 +25,7 @@
 
 ## Misc
 * Projects
-* Design
+* Design for Coders
 * Frameworks/Boilerplates
 * Mobile App Development (iOS, Android)
 * Other Programming Languages
@@ -35,3 +35,6 @@
 * PHP
 * WordPress
 
+<hr>
+# Thank Yous
+[Shannon Sullivan](https://github.com/shsulliv) for the "Awesome" resources and Computer Science links.
