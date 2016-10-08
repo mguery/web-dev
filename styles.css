@@ -1,12 +1,9 @@
 @import 'https://fonts.googleapis.com/css?family=Adamina|Muli';
 
-html {
-	font-family: 'Muli', sans-serif;
-}
-
 body { 
 	padding-top: 70px;
-	background-color: #fafafa; 
+	background-color: #fafafa;
+	font-family: 'Muli', sans-serif;
 	font-size: 18px;
 }
 
@@ -47,7 +44,6 @@ footer {
 
 .nav {
 	font-family: 'Adamina', serif;	
-	float: right;
 }
 
 .subheader, .lead { 
