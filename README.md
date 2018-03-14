@@ -1,6 +1,6 @@
 # [Web Developer Tools and Resources](https://mguery.github.io/web-dev/)
 
--- Roundup of free and affordable resources to help you learn how to code, build your portfolio, start a career in tech, volunteer for non-profit orgs, and join tech communities. 
+Roundup of free and affordable resources to help you learn how to code, build your portfolio, start a career in tech, volunteer for non-profit orgs, and join tech communities. 
 
 ## Where to Start [Go to](https://mguery.github.io/web-dev/#start)
 
@@ -11,8 +11,6 @@
 * Tools & Apps
 * Productivity Tips and Tools
 * Music &amp; Podcasts 
-
-
 
 ## What to Learn [Go to](https://mguery.github.io/web-dev/#code)
 
@@ -65,16 +63,8 @@
 ### Credits/Thank Yous
 
 - [WOCinTech](https://www.flickr.com/photos/wocintechchat/page1) 
-- [Unsplash](http://unsplash.com)
+- [Lewis Ngugi on Unsplash](https://unsplash.com/@ngeshlew)
 - [Font Awesome](http://fontawesome.io)
-- [Skeleton](http://getskeleton.com)
+- [Skeleton Grid](http://getskeleton.com)
 - [Normalize](https://github.com/necolas/normalize.css/)
-
 - [Shannon Sullivan](https://github.com/shsulliv) for the "Awesome" resources and Computer Science links.
-
-<hr>
-
-### More Resources
-
-* If you'd like to add your favorite free/low-cost resource, please [submit an issue here](https://github.com/mguery/web-dev/issues/new).
-* [Download PDF version]().
