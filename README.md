@@ -64,13 +64,13 @@
 
 ### Credits/Thank Yous
 
-[WOCinTech](https://www.flickr.com/photos/wocintechchat/page1) 
-[Unsplash](http://unsplash.com)
-[Font Awesome](http://fontawesome.io)
-[Skeleton](http://getskeleton.com)
-[Normalize](https://github.com/necolas/normalize.css/)
+- [WOCinTech](https://www.flickr.com/photos/wocintechchat/page1) 
+- [Unsplash](http://unsplash.com)
+- [Font Awesome](http://fontawesome.io)
+- [Skeleton](http://getskeleton.com)
+- [Normalize](https://github.com/necolas/normalize.css/)
 
-[Shannon Sullivan](https://github.com/shsulliv) for the "Awesome" resources and Computer Science links.
+- [Shannon Sullivan](https://github.com/shsulliv) for the "Awesome" resources and Computer Science links.
 
 <hr>
 
