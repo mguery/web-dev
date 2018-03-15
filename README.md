@@ -2,6 +2,8 @@
 
 Roundup of free and affordable resources to help you learn how to code, build your portfolio, start a career in tech, volunteer for non-profit orgs, and join tech communities. 
 
+![Screenshot](https://github.com/mguery/web-dev/blob/gh-pages/web-dev-res.png?raw=true)
+
 ## Where to Start [Go to](https://mguery.github.io/web-dev/#start)
 
 * Where to Learn How to Code
